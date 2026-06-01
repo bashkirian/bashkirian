@@ -9,9 +9,13 @@ I enjoy building reliable backend services, designing fault-tolerant architectur
 ## 👨‍💻 About Me
 
 🎓 B.Sc. in Applied Mathematics & Computer Science — Saint Petersburg State University
+
 🎓 M.Sc. in Mathematics & Computer Science — Moscow State University
+
 🏫 Graduate of Yandex Backend School
+
 💼 Professional experience in fintech, payment systems, and R&D
+
 🌍 Currently exploring opportunities in international backend and fintech teams
 
 ---
@@ -49,11 +53,17 @@ A multi-provider payment routing system inspired by real-world payment orchestra
 Key features:
 
 ✅ Stripe integration
+
 ✅ Automatic provider failover
+
 ✅ Priority, Weighted, and Success-Based routing
+
 ✅ Idempotent APIs
+
 ✅ Redis-backed rate limiting
+
 ✅ gRPC microservice architecture
+
 ✅ VictoriaMetrics + Grafana observability
 
 🔗 Repository:
@@ -61,15 +71,39 @@ https://github.com/bashkirian/payment-orchestrator
 
 ---
 
+### 📚 Go CQRS Reference Implementation
+
+A reference implementation of CQRS patterns in Go.
+
+🔗 Repository:
+https://github.com/bashkirian/go.cqrs
+
+---
+
 ## 🎯 Current Interests
 
 💳 Payment Systems
+
 ⚙️ Distributed Systems
+
 📡 Event-Driven Architectures
+
 🔍 Reliability Engineering
+
 🏗 System Design
+
 🚀 High-Load Backend Services
+
 🌱 Open Source
+
+---
+
+## 📈 Currently Learning
+
+* Advanced payment orchestration patterns
+* Reliability and fault tolerance in distributed systems
+* Large-scale fintech architectures
+* Production observability practices
 
 ---
 
