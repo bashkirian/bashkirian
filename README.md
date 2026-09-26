@@ -110,12 +110,16 @@ https://github.com/bashkirian/go.cqrs
 ## 🤝 Let's Connect
 
 💼 LinkedIn:
-https://www.linkedin.com/in/almaz-shagiev/
+https://www.linkedin.com/in/almaz-shagiev-54b369276/
 
-💬 Telegram:
-https://t.me/AlmazShagiev
+💬 Telegram & Whatsapp:
+- https://t.me/AlmazShagiev
+- https://wa.me/995555954190
 
-📫 Always happy to discuss:
+📫 Gmail:
+ashbashkirian@gmail.com
+
+Always happy to discuss:
 Go • Fintech • Payments • Kafka • PostgreSQL • Distributed Systems
 <!--
 **bashkirian/bashkirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
